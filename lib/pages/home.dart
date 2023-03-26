@@ -32,12 +32,17 @@ class _HomePageState extends State<HomePage> {
                     borderRadius: BorderRadius.circular(17),
                     border:
                         Border.all(color: AppUIColor.appLightColor, width: 2)),
-                child: Center(
-                    child: Text(
-                  'Add Event',
-                  style: GoogleFonts.poppins(
-                      fontSize: 26, color: AppUIColor.lightTextColor),
-                )),
+                child: FittedBox(
+                  child: Padding(
+                    padding: const EdgeInsets.all(13.0),
+                    child: Center(
+                        child: Text(
+                      'Add Event',
+                      style: GoogleFonts.poppins(
+                          fontSize: 26, color: AppUIColor.lightTextColor),
+                    )),
+                  ),
+                ),
               ),
             )
           ],
