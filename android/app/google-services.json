@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1011075237640",
+    "firebase_url": "https://kavach-2368e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kavach-2368e",
+    "storage_bucket": "kavach-2368e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011075237640:android:431c2925ebf69faceb8ebd",
+        "android_client_info": {
+          "package_name": "com.example.kavach13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011075237640-464dvgl25i2qj7nef5u19dnmvl75oqbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKR3yjvAF_ezNB0yxwW66Co6x5M97efvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011075237640-464dvgl25i2qj7nef5u19dnmvl75oqbk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011075237640-3nemp8id7sof4ljd3htppnrtm97k3r9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kavach13"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
