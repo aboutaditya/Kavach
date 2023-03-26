@@ -294,7 +294,8 @@ class _AddEventState extends State<AddEvent> {
                   ),
                 ),
               ),
-            )
+            ),
+            SizedBox(height: 50,)
           ],
         ),
       ),
